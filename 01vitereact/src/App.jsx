@@ -1,9 +1,13 @@
-function App() {
-  
+import One from "./one";
 
+
+
+
+
+function App() {
   return (
     <div className="App">
-      <h1>Hello World !</h1>
+      <One/>
     </div>
   );
 }
