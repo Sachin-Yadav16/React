@@ -1,9 +1,12 @@
-
+import { One } from "./one";
 
 function App() {
   return (
-   <h1>hello react</h1>
+  <One/>
+  
   );
 }
 
 export default App;
+
+

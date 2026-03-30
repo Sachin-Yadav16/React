@@ -1,8 +1,4 @@
-import One from "./one";
-
-
-
-
+import { One } from "./components/one";
 
 function App() {
   return (
