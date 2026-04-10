@@ -1,11 +1,15 @@
-import { One } from "./components/one";
+
+
+
+
+
 
 function App() {
+  
+
   return (
-    <div className="App">
-      <One/>
-    </div>
-  );
+  <h1>Hello!</h1> 
+  )
 }
 
-export default App;
+export default App
