@@ -1,5 +1,6 @@
 
-
+import One from "./one"
+import Two from "./two"
 
 
 
@@ -8,7 +9,10 @@ function App() {
   
 
   return (
-  <h1>Hello!</h1> 
+    <>
+  <One/>
+  <Two/>
+  </>
   )
 }
 
