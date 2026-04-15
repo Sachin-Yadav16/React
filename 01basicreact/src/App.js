@@ -1,7 +1,11 @@
+import One from "./one";
 
 function App() {
   return (
-    <h1>Hello!</h1>
+    <>
+      <One/>
+      <h1>Hello!</h1>
+    </>
   );
 }
 
